@@ -1,2 +1,2 @@
 config:
-  info: "master branch,$pringcloud-config/config-prod.yaml version=1"
+  info: "one branch,$pringcloud-config/config-prod.yaml version=1"
